@@ -188,5 +188,5 @@ app.get("/download/:filekey", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Server is running on http://localhost:${3002}`);
+  console.log(`Server is running on http://localhost:${port}`);
 });
