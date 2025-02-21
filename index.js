@@ -22,10 +22,10 @@ app.use(
 
 // Database connection setup
 const db = mysql.createConnection({
-  host: "localhost",
-  user: "root",
-  password: "Omg577003@",
-  database: "fileuploads",
+  host: "sql12.freesqldatabase.com",
+  user: "sql12763637",
+  password: "8P2tpcdIAT@",
+  database: "sql12763637",
   multipleStatements: true // Allow multiple queries if needed
 });
 
